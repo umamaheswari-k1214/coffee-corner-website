@@ -35,4 +35,4 @@ This project was built to practice frontend development concepts like:
 - hover effects
 
 ## 👨‍💻 Author
-Mahi Kodavarthi
+Uma Maheswari Kodavarthi
